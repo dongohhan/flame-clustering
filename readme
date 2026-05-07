@@ -1,3 +1,3 @@
 To compile:
 
-gcc -I. flame.c sample.c -o sample
+gcc -I. flame.c FLAME.c -o FLAME -lm
